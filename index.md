@@ -7,12 +7,12 @@ When you start developing a game, the first thing you need is an idea. Here’s 
 Not only do they focus on game features, but more focused on the design of the game itself.
 They are one of the most important foundations in Game Design, and should be followed during the whole process.
 
-```markdown
+
 # Benefits of Game Pillars
 1. They help the team see how the project will be going.
 2. Give a clear vision about how it should be done.
 3. Make more easy the understanding of the whole design.
-```
+
 Game pillars are the first step in order to cohesive the team in the first game design decisions.
 
 ### Differences between game pillar and Unique Selling Point (USP)
@@ -29,36 +29,36 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
 ### Examples of good Game Pillars
 
  _**1. The Last of Us**_
- ```markdown
+ 
  1. Crafting: ammo is scarce, so to cause higher amount of damage it is better to use items populating the world.
  2. Story: the game is heavily narrative, focuses on the story of the two main characters.
  3. AI partners: the game is all about building relationships between characters with the AI.
  4. Stealth: combat is used in this game, but if you were to run and gun, the game would be extremely difficult.
- ```
+ 
  _**2. Team Fight Tactics**_
- ```markdown
+
  1. Mastery: the game should always feedback a feeling of improvement and growth, whether the 1st or 100th game.
  2. Playful Competition: beyond a rewarding game, TFT is also a shared experience, one that is competitive and challenging.
  3. Discovery: the gradual addition of champions, change in items and champions should refresh 
     the game and avoid getting stuck in the same meta.
- ```
+
   _**3. Clash of Clans**_
-   ```markdown
+
  1. Offensive Capabilities: In different town halls, you get more troops and abilities, 
     so the pattern grows in offensive capabilities throughout the different levels.
  2. Attacking skills: what the player can do with his offensive capabilities, strategies, etc.
  3. Defensive Capabilities: In different town halls, you get more defenses with different skills,
     in order to defend your resources.
  4. Base Design: what the player can do with his defense. 
- ```
+
   
   ### Examples of bad Game Pillars
   
   Now that we've seen some good examples, we have to focus on the bad ones to avoid it:
-  ```markdown
+
   - Tasks: putting a task as a game pillar like "make the inventory look clean" or "combat is dynamic" are not good game pillars.
   - No meaning: this game pillars like "make the game funny" or "make the combat enjoyable" are also bad game pillars.
-  ```
+
   
   ### How to implement them
   - First of all, comes the brainstorming. Write down every idea, then you can start filtering.
