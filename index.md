@@ -59,6 +59,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
 
   
  ### How to implement them
+ 
   - First of all, comes the brainstorming. Write down every idea, then you can start filtering.
   - When you have all your ideas, think if you will have enough means to implement it. If the answer is no, decline it. If not, go ahead.
   - Then, is this idea gonna look attractive to the player? Will it help the game not to be boring? You have to make sure the idea helps the game, 
@@ -67,6 +68,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
     If so, you have to start again.
 
  ### Things to take into account during the development
+ 
   Once the project is started, game pillars keep being pretty useful.
   The game pillars are the basis of the game, but a project like a game changes a lot through the development. To keep coherence, you always need to keep in mind if the   
   changes are working with the pillars. If that’s not the case, you should discard the idea (as much we like it).
