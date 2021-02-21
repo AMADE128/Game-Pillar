@@ -79,17 +79,17 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   
  ### Biography
   
-  -[TFT game pillars](https://nexus.leagueoflegends.com/en-us/2019/06/dev-design-pillars-of-teamfight-tactics/)
+  - [TFT game pillars](https://nexus.leagueoflegends.com/en-us/2019/06/dev-design-pillars-of-teamfight-tactics/)
   
-  -[Gamasutra](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
+  - [Gamasutra](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
   
-  -[Supercell game pillars](https://forum.supercell.com/showthread.php/1653263-The-Four-PIllars-of-Clash-Wrap-Up-Summary)
+  - [Supercell game pillars](https://forum.supercell.com/showthread.php/1653263-The-Four-PIllars-of-Clash-Wrap-Up-Summary)
   
-  -[Defining game pillars](https://80.lv/articles/defining-the-core-of-your-game-design-pillars/)
+  - [Defining game pillars](https://80.lv/articles/defining-the-core-of-your-game-design-pillars/)
   
-  -[Paradox game pillars](https://www.paradoxinteractive.com/en/game-pillars/)
+  - [Paradox game pillars](https://www.paradoxinteractive.com/en/game-pillars/)
   
-  -[Main pillars](https://medium.com/@EightyLevel/the-main-pillars-of-game-design-57694e57cba)
+  - [Main pillars](https://medium.com/@EightyLevel/the-main-pillars-of-game-design-57694e57cba)
   
   
 
