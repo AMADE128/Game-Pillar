@@ -1,5 +1,3 @@
-## Game Pillars
-
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/download.jpg)
 ### What is a Game Pillar?
 
@@ -8,7 +6,7 @@ Not only do they focus on game features, but more focused on the design of the g
 They are one of the most important foundations in Game Design, and should be followed during the whole process.
 
 
-# Benefits of Game Pillars
+## Benefits of Game Pillars
 1. They help the team see how the project will be going.
 2. Give a clear vision about how it should be done.
 3. Make more easy the understanding of the whole design.
@@ -77,7 +75,8 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   Game Pillars are concepts and ideas decided at the beginning of a game. They give the team a clear vision of the game and help us to make good decisions and avoid fails.
   We have to keep them in mind through the development because the design is not static.
   
-  #### Biography
+  ### Biography
+  
   -[TFT game pillars](https://nexus.leagueoflegends.com/en-us/2019/06/dev-design-pillars-of-teamfight-tactics/)
   
   -[Gamasutra](https://www.gamasutra.com/blogs/MaxPears/20171012/307469/Design_Pillars__The_Core_of_Your_Game.php)
