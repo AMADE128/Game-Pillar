@@ -1,6 +1,6 @@
 ## Game Pillars
 
-![Game Design](/images/download.png)
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/download.jpg)
 ### What is a Game Pillar?
 
 When you start developing a game, the first thing you need is an idea. Here’s where game pillars play an important role, as they are the basis, as it name suggests, for a game.
