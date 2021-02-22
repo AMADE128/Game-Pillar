@@ -5,6 +5,7 @@ When you start developing a game, the first thing you need is an idea. Here’s 
 Not only do they focus on game features, but more focused on the design of the game itself.
 They are one of the most important foundations in Game Design, and should be followed during the whole process.
 
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/idea.gif)
 
 ## Benefits of Game Pillars
 1. They help the team see how the project will be going.
@@ -25,6 +26,7 @@ Fight Night: Innovative punch controls
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/unnamed.png)
 
 Dead Space: Monster dismemberment
+
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/dismemberment.jpg)
 
 Example: in Gears of War 2, they used Accessibility as a game pillar. Players will take it as “less difficult”, so it would be an error to put that word as a USP (and they did not).
