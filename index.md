@@ -50,7 +50,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
  4. Base Design: what the player can do with his defense. 
 
   
- ### Examples of bad Game Pillars
+### Examples of bad Game Pillars
   
   Now that we've seen some good examples, we have to focus on the bad ones to avoid it:
 
@@ -58,7 +58,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   - No meaning: this game pillars like "make the game funny" or "make the combat enjoyable" are also bad game pillars.
 
   
- ### How to implement them
+### How to implement them
  
   - First of all, comes the brainstorming. Write down every idea, then you can start filtering.
   - When you have all your ideas, think if you will have enough means to implement it. If the answer is no, decline it. If not, go ahead.
@@ -67,17 +67,17 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   - Finally, when you have all your game pillars, you have to ask this question. Was there a game before that worked with all your game pillars?
     If so, you have to start again.
 
- ### Things to take into account during the development
+### Things to take into account during the development
  
   Once the project is started, game pillars keep being pretty useful.
   The game pillars are the basis of the game, but a project like a game changes a lot through the development. To keep coherence, you always need to keep in mind if the   
   changes are working with the pillars. If that’s not the case, you should discard the idea (as much we like it).
 
- ### Summary
+### Summary
   Game Pillars are concepts and ideas decided at the beginning of a game. They give the team a clear vision of the game and help us to make good decisions and avoid fails.
   We have to keep them in mind through the development because the design is not static.
   
- ### Biography
+### Biography
   
   - [TFT game pillars](https://nexus.leagueoflegends.com/en-us/2019/06/dev-design-pillars-of-teamfight-tactics/)
   
