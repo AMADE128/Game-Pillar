@@ -22,11 +22,10 @@ A USP isn't necessarily a game mechanic. It can also be a specific visual style,
 Jet Set Radio: Manga-like visual style
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/Jet_Set_Radio_Evo_Concept_12_17_17.jpg)
 
-Fight Night: Innovative punch controls
+Fight Night: When the game was launched, innovative punch controls
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/unnamed.png)
 
 Dead Space: Monster dismemberment
-
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/dismemberment.jpg)
 
 Example: in Gears of War 2, they used Accessibility as a game pillar. Players will take it as “less difficult”, so it would be an error to put that word as a USP (and they did not).
