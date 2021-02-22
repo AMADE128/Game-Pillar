@@ -17,9 +17,15 @@ Game pillars are the first step in order to cohesive the team in the first game 
 In this point I wanna make clear the difference between a USP and a Game Pillar. 
 If you do the process well, the USP should be a Game Pillar. However, a Game Pillar is not necessarily a USP.
 A USP isn't necessarily a game mechanic. It can also be a specific visual style, an original location or story, or even a tremendous amount of content. A few examples:
+
 Jet Set Radio: Manga-like visual style
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/Jet_Set_Radio_Evo_Concept_12_17_17.jpg)
+
 Fight Night: Innovative punch controls
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/unnamed.png)
+
 Dead Space: Monster dismemberment
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/dismemberment.jpg)
 
 Example: in Gears of War 2, they used Accessibility as a game pillar. Players will take it as “less difficult”, so it would be an error to put that word as a USP (and they did not).
 
@@ -28,6 +34,8 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
 
  _**1. The Last of Us**_
  
+ ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/baixa%20(1).jpg)
+ 
  1. Crafting: ammo is scarce, so to cause higher amount of damage it is better to use items populating the world.
  2. Story: the game is heavily narrative, focuses on the story of the two main characters.
  3. AI partners: the game is all about building relationships between characters with the AI.
@@ -35,12 +43,16 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
  
  _**2. Team Fight Tactics**_
 
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/baixa.jpg)
+
  1. Mastery: the game should always feedback a feeling of improvement and growth, whether the 1st or 100th game.
  2. Playful Competition: beyond a rewarding game, TFT is also a shared experience, one that is competitive and challenging.
  3. Discovery: the gradual addition of champions, change in items and champions should refresh 
     the game and avoid getting stuck in the same meta.
 
   _**3. Clash of Clans**_
+  
+  ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/images.jpg)
 
  1. Offensive Capabilities: In different town halls, you get more troops and abilities, 
     so the pattern grows in offensive capabilities throughout the different levels.
@@ -72,10 +84,14 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   Once the project is started, game pillars keep being pretty useful.
   The game pillars are the basis of the game, but a project like a game changes a lot through the development. To keep coherence, you always need to keep in mind if the   
   changes are working with the pillars. If that’s not the case, you should discard the idea (as much we like it).
+  
+  
 
 ### Summary
   Game Pillars are concepts and ideas decided at the beginning of a game. They give the team a clear vision of the game and help us to make good decisions and avoid fails.
   We have to keep them in mind through the development because the design is not static.
+  
+  ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/tenor.gif)
   
 ### Biography
   
