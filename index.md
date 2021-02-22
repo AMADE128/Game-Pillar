@@ -23,7 +23,7 @@ Jet Set Radio: Manga-like visual style
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/Jet_Set_Radio_Evo_Concept_12_17_17.jpg)
 
 Fight Night: When the game was launched, innovative punch controls
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/baixa%20(2).jpg)
+![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/fightnight.jpeg)
 
 Dead Space: Monster dismemberment
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/dismemberment.jpg)
