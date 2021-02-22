@@ -54,7 +54,6 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   _**3. Clash of Clans**_
   
 ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/images.jpg)
-[logo]: https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/images.jpg "Logo Clash of Clans"
 
  1. Offensive Capabilities: In different town halls, you get more troops and abilities, 
     so the pattern grows in offensive capabilities throughout the different levels.
