@@ -1,11 +1,11 @@
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/download.jpg)
+![](images/download.jpg)
 ### What is a Game Pillar?
 
 When you start developing a game, the first thing you need is an idea. Here’s where game pillars play an important role, as they are the basis, as it name suggests, for a game.
 Not only do they focus on game features, but more focused on the design of the game itself.
 They are one of the most important foundations in Game Design, and should be followed during the whole process.
 
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/idea.gif)
+![](images/idea.gif)
 
 ## Benefits of Game Pillars
 1. They help the team see how the project will be going.
@@ -20,13 +20,13 @@ If you do the process well, the USP should be a Game Pillar. However, a Game Pil
 A USP isn't necessarily a game mechanic. It can also be a specific visual style, an original location or story, or even a tremendous amount of content. A few examples:
 
 Jet Set Radio: Manga-like visual style
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/Jet_Set_Radio_Evo_Concept_12_17_17.jpg)
+![](images/Jet_Set_Radio_Evo_Concept_12_17_17.jpg)
 
 Fight Night: When the game was launched, innovative punch controls
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/fightnight.jpeg)
+![](images/fightnight.jpeg)
 
 Dead Space: Monster dismemberment
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/dismemberment.jpg)
+![](images/dismemberment.jpg)
 
 Example: in Gears of War 2, they used Accessibility as a game pillar. Players will take it as “less difficult”, so it would be an error to put that word as a USP (and they did not).
 
@@ -35,7 +35,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
 
  _**1. The Last of Us**_
  
- ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/baixa%20(1).jpg)
+ ![](images/baixa%20(1).jpg)
  
  1. Crafting: ammo is scarce, so to cause higher amount of damage it is better to use items populating the world.
  2. Story: the game is heavily narrative, focuses on the story of the two main characters.
@@ -44,7 +44,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
  
  _**2. Team Fight Tactics**_
 
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/baixa.jpg)
+![](images/baixa.jpg)
 
  1. Mastery: the game should always feedback a feeling of improvement and growth, whether the 1st or 100th game.
  2. Playful Competition: beyond a rewarding game, TFT is also a shared experience, one that is competitive and challenging.
@@ -53,7 +53,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
 
   _**3. Clash of Clans**_
   
-![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/images.jpg)
+![](images/images.jpg)
 
  1. Offensive Capabilities: In different town halls, you get more troops and abilities, 
     so the pattern grows in offensive capabilities throughout the different levels.
@@ -92,7 +92,7 @@ Example: in Gears of War 2, they used Accessibility as a game pillar. Players wi
   Game Pillars are concepts and ideas decided at the beginning of a game. They give the team a clear vision of the game and help us to make good decisions and avoid fails.
   We have to keep them in mind through the development because the design is not static.
   
-  ![](https://github.com/AMADE128/Game-Pillar/blob/gh-pages/images/tenor.gif)
+  ![](images/tenor.gif)
   
 ### Biography
   
